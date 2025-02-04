@@ -8,3 +8,4 @@ Goal to achive is find the "m" value
 
 m = (y-b) / x
 
+x value cannot be zero
